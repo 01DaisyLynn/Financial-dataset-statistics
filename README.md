@@ -2,9 +2,9 @@
 
 # Description #
 
-# Setup #
+Performing Exploratory data analysis using Univariate, bivariate and multivariate analysis methods
 
-Import libraries i.e
+# Setup #
 
 Importing the pandas library
 import pandas as pd 
@@ -17,6 +17,8 @@ import seaborn as sns
 
 Importing Matplotlib
 import matplotlib.pyplot as plt
+
+Check data
 
 # Tools used #
 
