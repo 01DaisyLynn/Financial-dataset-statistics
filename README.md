@@ -6,16 +6,16 @@
 
 Import libraries i.e
 
-# Importing the pandas library
+Importing the pandas library
 import pandas as pd 
 
-# Importing the numpy library
+Importing the numpy library
 import numpy as np 
 
-# Importing Seaborn
+Importing Seaborn
 import seaborn as sns
 
-# Importing Matplotlib
+Importing Matplotlib
 import matplotlib.pyplot as plt
 
 # Tools used #
