@@ -24,4 +24,12 @@ Check data
 
 Colab Notebook
 
+Python
+
 CSV file
+
+# License #
+
+MIT license
+
+Permission is hereby accorded to anyone pleased to use the above data together with the files used
